@@ -6,7 +6,7 @@ A smart, mobile-first packing app built for Lindsey, Chris, Lincoln & Ryder. No 
 
 | File | What it is |
 |------|------------|
-| `basecamp.html` | The entire app — one self-contained file |
+| `index.html` | The entire app — one self-contained file |
 | `README.md` | This file |
 
 ---
